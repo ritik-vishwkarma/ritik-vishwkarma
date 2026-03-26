@@ -1,136 +1,193 @@
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!-- ║        RITIK VISHWAKARMA — GitHub Profile README     ║ -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
+
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00FF94,50:00BFFF,100:7B2FBE&height=200&section=header&text=Ritik%20Vishwakarma&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%7C%20ML%2FAI%20%7C%20Android%20%7C%20Audio%20ML%20%7C%20Backend&descAlignY=58&descSize=16&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,40:0A3D2E,100:00FF94&height=220&section=header&text=Ritik%20Vishwakarma&fontSize=52&fontColor=00FF94&fontAlignY=40&desc=%3E%20Explorer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=62&descSize=18&descColor=ffffff&animation=fadeIn)
 
 </div>
 
+<!-- ── TYPING ANIMATION ── -->
 <div align="center">
 
-### `> whoami`
-
-🚀 **I don't pick lanes — I build the whole road.**
-
-*College student. Curious by nature. Builder by habit. Fresher by timeline.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-vishwakarma-655138263/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://ritik-vishwkarma.github.io/RitikVishwakarma/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwakarmaritik1111@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00FF94&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=%24+whoami+%3E+Full+Stack+Developer;%24+whoami+%3E+ML+%2F+AI+Engineer;%24+whoami+%3E+Android+Security+Researcher;%24+whoami+%3E+Audio+ML+Builder;%24+whoami+%3E+Backend+Architect;%24+whoami+%3E+Curious+Student+%F0%9F%9A%80)](https://github.com/ritik-vishwkarma)
 
 </div>
 
 ---
 
-## `> cat about_me.txt`
+<!-- ── CONNECT ── -->
+<div align="center">
 
-```bash
-$ ./ritik --info
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-vishwakarma-655138263/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF94?style=for-the-badge&logo=googlechrome&logoColor=black)](https://ritik-vishwkarma.github.io/RitikVishwakarma/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwakarmaritik1111@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ritik-vishwkarma)
 
-Name     : Ritik Vishwakarma
-Role     : Explorer | Builder | Problem Solver
-Status   : 🟢 Open to Work (Fresher)
-Location : India
-Stack    : Everything that compiles (and some that doesn't)
-Motto    : "Curiosity is my stack. Code is my language."
+</div>
 
-Domains explored:
-  ✅ Full Stack Development
-  ✅ Backend Engineering
-  ✅ Machine Learning & AI
-  ✅ Audio ML
-  ✅ Android Security
-  ✅ Android Development & Management Tools
+<br/>
+
+---
+
+## `[SYSTEM]: Booting profile... ▓▓▓▓▓▓▓▓▓▓ 100%`
+
+```zsh
+┌──(ritik㉿terminal)-[~]
+└─$ cat /etc/profile.d/about_me.conf
+
+  NAME     ──▶  Ritik Vishwakarma
+  ROLE     ──▶  Explorer | Builder | Problem Solver
+  STATUS   ──▶  🟢 OPEN TO WORK (Fresher)
+  LOCATION ──▶  India 🇮🇳
+  COLLEGE  ──▶  Engineering Student
+  MOTIVE   ──▶  "I don't pick lanes — I build the whole road."
+  STACK    ──▶  Everything that compiles (and some that doesn't 😅)
+
+  DOMAINS  ──▶  Full Stack Development
+            ──▶  Backend Engineering  
+            ──▶  Machine Learning & AI
+            ──▶  Audio ML
+            ──▶  Android Security Research
+            ──▶  Android App & Management Tools
 ```
 
 ---
 
-## `> ls ./tech-stack/`
+## `[SCAN]: Mapping tech arsenal...`
 
 <div align="center">
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+### ⚡ Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### 🌐 Frontend & Backend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-### 🤖 ML / AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🤖 ML / AI / Audio
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 🗄️ Databases & DevOps
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 📱 Android
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 📱 Android & Security
+
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 </div>
 
 ---
 
-## `> ./show_projects.sh`
+## `[LOG]: Project history loaded...`
 
 <div align="center">
 
-| Project | Domain | Tech | Status |
-|--------|--------|------|--------|
-| 🔊 **Audio ML System** | Audio ML | Python, PyTorch | ✅ Built |
-| 🔒 **Android Security Tools** | Android Security | Java, Kotlin | ✅ Built |
-| 🤖 **NLP Emoji Recommender** | NLP / ML | Python | ✅ Public |
-| 📄 **PDF Chat Assistant** | AI / RAG | Python | ✅ Public |
-| 🌐 **Full Stack Projects** | Web Dev | JS, React, Node | ✅ Active |
-| 📱 **Android Management Tools** | Android Dev | Java/Kotlin | ✅ Built |
+| 🚀 Project | 🔬 Domain | 🛠️ Stack | 🔓 Visibility |
+|:-----------|:----------|:---------|:-------------|
+| 🔊 Audio ML System | Audio ML | Python · PyTorch · Librosa | `Private` |
+| 🔒 Android Security Toolkit | Android Security | Java · Kotlin · ADB | `Private` |
+| 🤖 NLP Emoji Recommender | NLP / ML | Python · NLTK | [`Public ↗`](https://github.com/ritik-vishwkarma/NLP-Emoji-Recommender) |
+| 📄 PDF Chat Assistant | AI / RAG | Python · LLM | [`Public ↗`](https://github.com/ritik-vishwkarma/Mini-Project-SEM-4) |
+| 🌐 Backend Projects | Web Dev | Node.js · Express · JS | [`Public ↗`](https://github.com/ritik-vishwkarma/Backend) |
+| 📱 Android Management Tools | Android Dev | Java · Kotlin | `Private` |
 
 </div>
 
 ---
 
-## `> cat stats.sh | bash`
+## `[METRICS]: Pulling GitHub analytics...`
 
 <div align="center">
 
-![Ritik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritik-vishwkarma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF94&icon_color=00FF94&text_color=C9D1D9)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ritik-vishwkarma&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF94&icon_color=00FF94&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik-vishwkarma&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF94&text_color=FFFFFF&langs_count=8"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritik-vishwkarma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF94&text_color=C9D1D9)
+</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ritik-vishwkarma&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF94&fire=FF6B6B&currStreakLabel=00FF94)](https://git.io/streak-stats)
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ritik-vishwkarma&theme=dark&hide_border=true&background=0D1117&ring=00FF94&fire=00BFFF&currStreakLabel=00FF94&sideLabels=FFFFFF&dates=888888&stroke=00FF9430)](https://github.com/ritik-vishwkarma)
 
 </div>
 
 ---
 
-## `> ping ritik`
+## `[ACTIVITY]: Rendering contribution map...`
 
 <div align="center">
 
+[![Ritik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ritik-vishwkarma&bg_color=0D1117&color=00FF94&line=00BFFF&point=FFFFFF&area=true&hide_border=true&area_color=00FF9420)](https://github.com/ritik-vishwkarma)
+
+</div>
+
+---
+
+## `[TROPHY]: Achievement unlocked...`
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ritik-vishwkarma&theme=matrix&no-frame=true&no-bg=true&column=4&margin-w=10)](https://github.com/ritik-vishwkarma)
+
+</div>
+
+---
+
+## `[PING]: Attempting connection to ritik...`
+
+<div align="center">
+
+```bash
+┌──(recruiter㉿terminal)-[~]
+└─$ ping vishwakarmaritik1111@gmail.com
+
+PING ritik: 56 bytes of ambition, 0% packet loss 🚀
+Reply from ritik: Open to Work ✅
+Reply from ritik: Internships ✅
+Reply from ritik: Full-time Roles ✅  
+Reply from ritik: Cool Collaborations ✅
+
+--- ritik ping statistics ---
+Status: 🟢 ONLINE | Response: FAST | Vibe: IMMACULATE
 ```
-PING ritik (vishwakarmaritik1111@gmail.com)
-64 bytes from ritik: Open to Work ✅ — response time: fast 🚀
-```
 
-🤝 Open to **internships**, **full-time roles**, and **cool collabs**
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-vishwakarma-655138263/)
-[![Portfolio](https://img.shields.io/badge/See_My_Work-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://ritik-vishwkarma.github.io/RitikVishwakarma/)
+[![Let's Connect](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-vishwakarma-655138263/)
+[![See My Work](https://img.shields.io/badge/See_My_Portfolio-00FF94?style=for-the-badge&logo=googlechrome&logoColor=black)](https://ritik-vishwkarma.github.io/RitikVishwakarma/)
+[![Email Me](https://img.shields.io/badge/Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwakarmaritik1111@gmail.com)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ritik-vishwkarma.ritik-vishwkarma)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ritik-vishwkarma&color=00FF94&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
+<br/>
+
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,50:00BFFF,100:00FF94&height=120&section=footer&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00FF94,60:00BFFF,100:0D0D0D&height=140&section=footer&text=%3E%20exit%200%20%20%23%20just%20kidding%2C%20never%20stop%20building&fontSize=14&fontColor=ffffff&fontAlignY=65&animation=fadeIn)
 
 </div>
