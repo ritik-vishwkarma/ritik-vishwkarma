@@ -181,8 +181,6 @@ Status: 🟢 ONLINE | Response: FAST | Vibe: IMMACULATE
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ritik-vishwkarma&color=00FF94&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
 
 <br/>
