@@ -157,7 +157,7 @@
 
 ## `[PING]: Attempting connection to ritik...`
 
-<div align="center">
+<!-- <div align="center"> -->
 
 ```bash
 ┌──(recruiter㉿terminal)-[~]
