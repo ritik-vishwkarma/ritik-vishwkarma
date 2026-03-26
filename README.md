@@ -1,28 +1,19 @@
 <div align="center">
 
-```
-██████╗ ██╗████████╗██╗██╗  ██╗    ██╗   ██╗██╗███████╗██╗  ██╗██╗    ██╗ █████╗ ██╗  ██╗ █████╗ ██████╗ ███╗   ███╗ █████╗ 
-██╔══██╗██║╚══██╔══╝██║██║ ██╔╝    ██║   ██║██║██╔════╝██║  ██║██║    ██║██╔══██╗██║  ██║██╔══██╗██╔══██╗████╗ ████║██╔══██╗
-██████╔╝██║   ██║   ██║█████╔╝     ██║   ██║██║███████╗███████║██║ █╗ ██║███████║███████║███████║██████╔╝██╔████╔██║███████║
-██╔══██╗██║   ██║   ██║██╔═██╗     ╚██╗ ██╔╝██║╚════██║██╔══██║██║███╗██║██╔══██║██╔══██║██╔══██║██╔══██╗██║╚██╔╝██║██╔══██║
-██║  ██║██║   ██║   ██║██║  ██╗     ╚████╔╝ ██║███████║██║  ██║╚███╔███╔╝██║  ██║██║  ██║██║  ██║██║  ██║██║ ╚═╝ ██║██║  ██║
-╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝╚═╝  ╚═╝     ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝
-```
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00FF94,50:00BFFF,100:7B2FBE&height=200&section=header&text=Ritik%20Vishwakarma&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%7C%20ML%2FAI%20%7C%20Android%20%7C%20Audio%20ML%20%7C%20Backend&descAlignY=58&descSize=16&animation=fadeIn)
 
 </div>
 
 <div align="center">
 
-# `> whoami`
+### `> whoami`
 
-### 🚀 I don't pick lanes — I build the whole road.
-
-**Full Stack · Backend · ML/AI · Audio ML · Android Security · Android Dev**
+🚀 **I don't pick lanes — I build the whole road.**
 
 *College student. Curious by nature. Builder by habit. Fresher by timeline.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-vishwakarma-655138263/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ritik-vishwkarma.github.io/RitikVishwakarma/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://ritik-vishwkarma.github.io/RitikVishwakarma/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwakarmaritik1111@gmail.com)
 
 </div>
@@ -125,19 +116,21 @@ Domains explored:
 <div align="center">
 
 ```
-PING ritik (vishwakarmaritik1111@gmail.com) 56(84) bytes of data.
-64 bytes from ritik: seq=1 ttl=64 time=<your reply here> ms
+PING ritik (vishwakarmaritik1111@gmail.com)
+64 bytes from ritik: Open to Work ✅ — response time: fast 🚀
 ```
 
 🤝 Open to **internships**, **full-time roles**, and **cool collabs**
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-vishwakarma-655138263/)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-vishwakarma-655138263/)
 [![Portfolio](https://img.shields.io/badge/See_My_Work-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://ritik-vishwkarma.github.io/RitikVishwakarma/)
 
----
-
-*`> exit` — just kidding, I never stop building 🚀*
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ritik-vishwkarma.ritik-vishwkarma)
+
+</div>
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,50:00BFFF,100:00FF94&height=120&section=footer&animation=fadeIn)
 
 </div>
