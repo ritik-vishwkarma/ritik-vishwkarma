@@ -23,7 +23,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-vishwakarma-655138263/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00FF94?style=for-the-badge&logo=googlechrome&logoColor=black)](https://ritik-vishwkarma.github.io/RitikVishwakarma/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwakarmaritik1111@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ritik-vishwkarma)
 
 </div>
 
@@ -31,21 +30,21 @@
 
 ---
 
-## `[SYSTEM]: Booting profile... ▓▓▓▓▓▓▓▓▓▓ 100%`
+## `[SYSTEM]: Booting profile... ▓▓▓▓▓▓▓▓▓▓... 89%`
 
 ```zsh
 ┌──(ritik㉿terminal)-[~]
 └─$ cat /etc/profile.d/about_me.conf
 
-  NAME     ──▶  Ritik Vishwakarma
-  ROLE     ──▶  Explorer | Builder | Problem Solver
-  STATUS   ──▶  🟢 OPEN TO WORK (Fresher)
-  LOCATION ──▶  India 🇮🇳
-  COLLEGE  ──▶  Engineering Student
-  MOTIVE   ──▶  "I don't pick lanes — I build the whole road."
-  STACK    ──▶  Everything that compiles (and some that doesn't 😅)
+  NAME      ──▶  Ritik Vishwakarma
+  ROLE      ──▶  Explorer | Builder | Problem Solver
+  STATUS    ──▶  🟢 OPEN TO WORK (Fresher)
+  LOCATION  ──▶  India 🇮🇳
+  COLLEGE   ──▶  Engineering Student
+  MOTIVE    ──▶  "I don't pick lanes — I build the whole road."
+  STACK     ──▶  Everything that compiles (and some that doesn't 😅)
 
-  DOMAINS  ──▶  Full Stack Development
+  DOMAINS   ──▶  Full Stack Development
             ──▶  Backend Engineering  
             ──▶  Machine Learning & AI
             ──▶  Audio ML
@@ -57,46 +56,14 @@
 
 ## `[SCAN]: Mapping tech arsenal...`
 
-<div align="center">
-
-### ⚡ Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### 🌐 Frontend & Backend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### 🤖 ML / AI / Audio
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 🗄️ Databases & DevOps
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 📱 Android & Security
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
-</div>
+| | |
+|:---|:---|
+| **⚡ Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) |
+| **🌐 Frontend & Backend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) |
+| **🤖 ML / AI / Audio** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
+| **🗄️ Databases & DevOps** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| **📱 Android & Security** | ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) |
+ 
 
 ---
 
@@ -175,9 +142,9 @@ Status: 🟢 ONLINE | Response: FAST | Vibe: IMMACULATE
 
 <br/>
 
-[![Let's Connect](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-vishwakarma-655138263/)
 [![See My Work](https://img.shields.io/badge/See_My_Portfolio-00FF94?style=for-the-badge&logo=googlechrome&logoColor=black)](https://ritik-vishwkarma.github.io/RitikVishwakarma/)
 [![Email Me](https://img.shields.io/badge/Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwakarmaritik1111@gmail.com)
+[![Let's Connect](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-vishwakarma-655138263/)
 
 <br/>
 
