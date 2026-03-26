@@ -154,17 +154,6 @@
  
 ---
  
-## `[TROPHY]: Achievement unlocked...`
- 
-<div align="center">
- 
-![Domains](https://img.shields.io/badge/Domains_Explored-6-00FF94?style=for-the-badge&logoColor=black)
-![Projects](https://img.shields.io/badge/Projects_Built-10+-00BFFF?style=for-the-badge&logoColor=black)
-![Contributions](https://img.shields.io/badge/Contributions-145+-FF6B6B?style=for-the-badge&logo=github&logoColor=white)
-![Stars](https://img.shields.io/github/stars/ritik-vishwkarma?style=for-the-badge&label=Stars&color=FFD700&logoColor=black)
- 
-<br/>
- 
 
 ## `[PING]: Attempting connection to ritik...`
 
