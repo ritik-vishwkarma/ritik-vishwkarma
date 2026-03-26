@@ -30,7 +30,7 @@
 
 ---
 
-## `[SYSTEM]: Booting profile... ▓▓▓▓▓▓▓▓▓▓... 89%`
+## `[SYSTEM]: Booting profile ▓▓▓▓▓▓▓▓▓▓... 89%`
 
 ```zsh
 ┌──(ritik㉿terminal)-[~]
