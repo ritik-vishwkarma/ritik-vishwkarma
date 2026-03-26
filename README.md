@@ -144,14 +144,24 @@
 
 ---
 
-## `[TROPHY]: Achievement unlocked...`
-
+## `[SKILLS]: Loading skill icons...`
+ 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ritik-vishwkarma&theme=matrix&no-frame=true&no-bg=true&column=4&margin-w=10)](https://github.com/ritik-vishwkarma)
-
+ 
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,java,kotlin,react,nextjs,nodejs,express,tensorflow,pytorch,mongodb,mysql,postgres,docker,git,linux,androidstudio&perline=9)](https://skillicons.dev)
+ 
 </div>
-
+ 
+---
+ 
+## `[TROPHY]: Achievement unlocked...`
+ 
+<div align="center">
+ 
+[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=ritik-vishwkarma&theme=matrix&no-frame=true&no-bg=true&column=4&margin-w=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+ 
+</div>
+ 
 ---
 
 ## `[PING]: Attempting connection to ritik...`
