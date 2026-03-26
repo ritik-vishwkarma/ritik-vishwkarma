@@ -141,10 +141,13 @@ Status: 🟢 ONLINE | Response: FAST | Vibe: IMMACULATE
 
 ---
 
+<div align="center">
+
 [![See My Work](https://img.shields.io/badge/See_My_Portfolio-00FF94?style=for-the-badge&logo=googlechrome&logoColor=black)](https://ritik-vishwkarma.github.io/RitikVishwakarma/)
 [![Email Me](https://img.shields.io/badge/Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwakarmaritik1111@gmail.com)
 [![Let's Connect](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-vishwakarma-655138263/)
-  
+
+</div>
 
 <br/>
 
