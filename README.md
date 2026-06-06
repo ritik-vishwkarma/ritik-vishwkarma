@@ -70,29 +70,12 @@
 
 | 🚀 Project | 🔬 Domain | 🛠️ Stack | 🔓 Visibility |
 |:-----------|:----------|:---------|:-------------|
-| 🔊 Audio ML System | Audio ML | Python · PyTorch · Librosa | `Private` |
+| 🏥 GHIA – Gramin Health Intake Assistant | Multi-Agent AI / HealthTech | FastAPI · LangGraph · Groq · Whisper · Streamlit |  [`Public ↗`](https://github.com/ritik-vishwkarma/GHIA) |
+| 🔊 Audio ML System | Audio ML | Python · PyTorch · Librosa | [`Public ↗`](https://github.com/ritik-vishwkarma/SpectraLog) |
 | 🔒 Android Security Toolkit | Android Security | Java · Kotlin · ADB | `Private` |
 | 🤖 NLP Emoji Recommender | NLP / ML | Python · NLTK | [`Public ↗`](https://github.com/ritik-vishwkarma/NLP-Emoji-Recommender) |
 | 📄 PDF Chat Assistant | AI / RAG | Python · LLM | [`Public ↗`](https://github.com/ritik-vishwkarma/Mini-Project-SEM-4) |
 | 🌐 Backend Projects | Web Dev | Node.js · Express · JS | [`Public ↗`](https://github.com/ritik-vishwkarma/Backend) |
-| 📱 Android Management Tools | Android Dev | Java · Kotlin | `Private` |
-
-</div>
-
----
-
-## `[METRICS]: Pulling GitHub analytics...`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ritik-vishwkarma&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF94&icon_color=00FF94&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik-vishwkarma&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF94&text_color=FFFFFF&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ritik-vishwkarma&theme=dark&hide_border=true&background=0D1117&ring=00FF94&fire=00BFFF&currStreakLabel=00FF94&sideLabels=FFFFFF&dates=888888&stroke=00FF9430)](https://github.com/ritik-vishwkarma)
 
 </div>
 
